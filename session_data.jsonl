@@ -1,0 +1,3 @@
+{"event": "capture_start", "timestamp": "2025-05-03T21:12:53.387309"}
+{"first_seen": "2025-05-03T21:12:55.241340", "last_seen": "2025-05-03T21:12:55.241340", "connection_count": 1, "ports": ["443"], "urls": ["https://sc-in-f84.1e100.net/"], "src_ip": "192.168.1.3", "domain": "sc-in-f84.1e100.net", "event": "new_session", "timestamp": "2025-05-03T21:12:55.241340"}
+{"first_seen": "2025-05-03T21:12:55.329061", "last_seen": "2025-05-03T21:12:55.329061", "connection_count": 1, "ports": ["443"], "urls": ["https://sl-in-f94.1e100.net/"], "src_ip": "192.168.1.3", "domain": "sl-in-f94.1e100.net", "event": "new_session", "timestamp": "2025-05-03T21:12:55.329061"}

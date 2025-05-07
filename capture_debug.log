@@ -1,0 +1,6 @@
+=== Network Traffic Capture Started ===
+[2025-05-04T13:10:55.373262] Configuration: INTERFACE=Ethernet, BPF_FILTER=, OUTPUT_MODE=jsonl
+[2025-05-04T13:10:55.373339] Testing capture settings...
+[2025-05-04T13:10:55.373368] Interface: Ethernet
+[2025-05-04T13:10:55.373389] BPF Filter: 
+[2025-05-04T13:10:55.821097] Starting test capture for 5 seconds
